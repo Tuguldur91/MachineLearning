@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# tar file 
+lab2/title.basics.tsv.gz
+lab2/title.ratings.tsv.gz
